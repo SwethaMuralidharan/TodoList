@@ -1,0 +1,74 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.todolist{
+  width:60%;
+  margin:0 auto;
+  border:1px solid pink;
+  color:pink;
+  background-color:rgb(174, 244, 244);
+  font-size:20px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-shadow: 1px solid rgb(240, 196, 196);
+
+}
+.todolist ul li{
+  list-style: none;
+}
+.todo{
+  display:flex;
+}
+
+.todo button {
+  color:black;
+  border:1px solid black;
+  padding:5px;
+  width:10%;
+}
+.todo li{
+  width:50%;
+}
+.editform{
+  width:30%;
+}
+.updatebtn{
+  width:30%;
+  color:black;
+  border:1px solid black;
+  padding:5px;
+}
