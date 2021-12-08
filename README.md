@@ -15,11 +15,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+<img width="824" alt="Screen Shot 2021-12-08 at 2 26 56 PM" src="https://user-images.githubusercontent.com/33131658/145302038-dade33c1-6930-42ea-b9ef-358a7f34d07f.png">
 
-
-![alt text](https://github.com/SwethaMuralidharan/TodoList/issues/1#issue-1074899622/'Screen Shot 2021-12-08 at 2.26.56 PM.png'
-?raw=true)
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
