@@ -7,6 +7,10 @@ This is a Todo List app written in ReactJs. You can create, view ,delete, edit a
 
 In the project directory, you can run:
 
+
+### Check out the site here
+[https://thingstodo-react.netlify.app/] to view in your browser.
+
 ### `npm start`
 
 Runs the app in the development mode.\
